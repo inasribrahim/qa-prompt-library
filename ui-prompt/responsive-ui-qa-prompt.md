@@ -130,4 +130,4 @@ Output all findings in this structured format:
 
 ---
 
-🎯 Goal: Deliver a **professional QA responsiveness audit** as if reviewing a production-grade application.
+🎯 Goal: Deliver a **professional QA responsiveness audit** as if reviewing a ui testing code.
