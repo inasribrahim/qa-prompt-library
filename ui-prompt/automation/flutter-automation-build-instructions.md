@@ -171,12 +171,14 @@ flutter build ios --debug --no-codesign
 ## 9) Reusable Agent Prompt
 
 ```text
-Set up Flutter mobile automation for this project.
-1. Validate Flutter and Android toolchain.
-2. Ensure flutter_test, integration_test, and test are in dev_dependencies.
-3. Run flutter clean and flutter pub get.
-4. Build debug APK.
-5. Return relative APK path and build result.
+Set up Flutter mobile automation and build a debug APK from the target branch.
+1. Navigate to local repository path: <LOCAL_REPO_PATH>
+2. Switch to target branch: <TARGET_BRANCH>
+3. Validate Flutter and Android toolchain.
+4. Ensure flutter_test, integration_test, and test are in dev_dependencies.
+5. Run flutter clean and flutter pub get.
+6. Build debug APK.
+7. Return relative APK path and build result.
 ```
 
 ## 10) Success Criteria
